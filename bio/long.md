@@ -15,8 +15,8 @@ Jina has been making websites as a hobby for about 25 years. They've worked
 professionally in the industry for 20 years (17 of those years working with 
 design systems).
 
-Earlier in her career, Jina worked at Apple’s Online Store during the launch of 
-the iPhone. As a frontend UX engineer, they led the online store’s CSS 
+Earlier in their career, Jina worked at Apple’s Online Store during the launch 
+of the iPhone. As a frontend UX engineer, they led the online store’s CSS 
 architecture and documentation towards web standards globally across all store 
 instances for locales, education and business-to-business, and more. They also 
 supported the marketing and communication teams to build out components for 
@@ -51,17 +51,17 @@ Delta, FedEx, IBM, International Paper, JustWorks, Mass.gov, Panasonic, Pfizer,
 Spotify, Upwork, W3C Web Accessibility Initiative, and many more.
 
 Jina co-authored the Design Systems Handbook (DesignBetter.Co by InVision), 
-Fancy Form Design (SitePoint), and The Art & Science of CSS (SitePoint). She was 
-a tech editor for Sass for Web Designers (by Dan Cederholm, A Book Apart) and 
-Sexy Web Design (by Elliot Jay Stocks, SitePoint). She has written articles for 
-publications including A List Apart, 24 Ways, The Pastry Box, Sitepoint, net 
-Magazine, and Treehouse.
+Fancy Form Design (SitePoint), and The Art & Science of CSS (SitePoint). They 
+were a tech editor for Sass for Web Designers (by Dan Cederholm, A Book Apart) 
+and Sexy Web Design (by Elliot Jay Stocks, SitePoint). They have written 
+articles for publications including A List Apart, 24 Ways, The Pastry Box, 
+Sitepoint, net Magazine, and Treehouse.
 
 Jina has keynoted Design Systems London, Design Systems Conference Helsinki, 
 CSS Dev Conf, and ConvergeSE, was a featured speaker at Adobe MAX, and has also 
 spoken at events such as AIGA Design Conference, An Event Apart, and many more.
 
 Jina has been featured in net Magazine several times, and Print Magazine 
-featured her as a leading San Francisco creative.
+featured them as a leading San Francisco creative.
 
-She has been said to be one of the most cheerful goths.
+They have been said to be one of the most cheerful goths.
