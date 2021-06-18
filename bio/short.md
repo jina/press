@@ -1,5 +1,13 @@
-Jina is a design systems advocate and advisor. She advises Opvitae, leads an AIGA SF committee, and is a Product Design Expert in the Google Developers Experts network.
+Jina (they/she) is a design systems advocate. At Asana, they manage the 
+designers on the design system team. They founded Clarity, the premier design 
+systems community conference. And they manage the Design Systems Slack (with 
+20K+ members).
 
-Jina led design systems at Amazon, Salesforce, and Apple. Jina founded Clarity, the Design Systems Coalition, and the Design Systems Slack.
+They also co-chair the W3C Design Tokens Community Group. And on the Sass core 
+team, they lead the brand and website design and development. In the Google 
+Developers Experts program, Jina is recognized as a Web Technologies expert. 
 
-Jina coauthored Design Systems Handbook, Fancy Form Design, and The Art & Science of CSS. She’s published several articles and speaks at conferences including Adobe MAX.
+Jina has led design systems efforts at Apple, Salesforce, and Amazon.
+
+Jina co-authored the Design Systems Handbook (DesignBetter.Co by InVision), 
+Fancy Form Design (SitePoint), and The Art & Science of CSS (SitePoint).
