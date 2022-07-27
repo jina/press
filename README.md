@@ -10,5 +10,5 @@ my most up-to-date biography and photo.
 
 ## Photos
 
-- [Square ](photo/portrait.jpg)
+- [Square](photo/portrait-square.jpg)
 - [Full portrait](photo/portrait-full.jpg)
