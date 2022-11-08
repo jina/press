@@ -1,4 +1,4 @@
-Jina (they/she) is a design systems advocate. At Google, they manage the design and developer advocates for Material Design. They founded [Clarity][], the premier design systems community conference. They also began the [Design Systems Coalition][] and its inaugural chapter, [San Francisco Design System Coalition][]. And they manage the [Design Systems Slack][] (with ~24K+ members).
+Jina (they/she) is a design systems advocate. At Google, they manage the design and developer advocates for Material Design. They founded [Clarity][], the premier design systems community conference. They also began the [Design Systems Coalition][] and its inaugural chapter, [San Francisco Design Systems Coalition][]. And they manage the [Design Systems Slack][] (with ~24K+ members).
 
 They also co-chair the [Design Tokens Community Group][]. And on the [Sass][] core team, they lead the brand and website design and development.
 
