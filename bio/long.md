@@ -36,8 +36,8 @@ They have been said to be one of the most cheerful goths.
 [asana]: https://asana.com/
 [beyond tellerand]: https://beyondtellerrand.com/events/duesseldorf-2017/speakers/jina-anne
 [clarity]: https://www.clarityconf.com/
-[coalition]: http://coalition.design.systems/
 [crush + lovely]: http://crushlovely.com/
+[design systems coalition]: http://coalition.design.systems/
 [design systems handbook]: https://www.designbetter.co/design-systems-handbook
 [design systems slack]: http://slack.design.systems/
 [design tokens community group]: https://www.designtokens.org/
