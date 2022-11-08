@@ -7,7 +7,7 @@ Jina has been making websites as a hobby for about 28 years. They've worked prof
 They have been said to be one of the most cheerful goths.
 
 [clarity]: https://www.clarityconf.com/
-[coalition]: http://coalition.design.systems/
+[design systems coalition]: http://coalition.design.systems/
 [design systems slack]: http://slack.design.systems/
 [design tokens community group]: https://www.designtokens.org/
 [san francisco design systems coalition]: https://www.sfdsc.co/
