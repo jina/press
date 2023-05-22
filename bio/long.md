@@ -1,10 +1,6 @@
-Jina (they/she) is a design systems advocate. At Google, they manage the design and developer advocates for Material Design. They founded [Clarity][], the premier design systems community conference. They also began the [Design Systems Coalition][] and its inaugural chapter, [San Francisco Design Systems Coalition][]. And they manage the [Design Systems Slack][] (with ~24K+ members).
+Jina (they/she) is a design systems advocate. They founded [Clarity][], a design systems community conference, and they manage the [Design Systems Slack][]. Jina co-chairs the [Design Tokens Community Group][]. And on the [Sass][] core team, they lead the brand and website design and development. Jina is also recognized as a [Google Developers Expert][] (in Web Technologies [UI and Tooling]).
 
-They also co-chair the [Design Tokens Community Group][]. And on the [Sass][] core team, they lead the brand and website design and development.
-
-Prior to joining Google, Jina was a member of the [Google Developers Experts][] program, where they were recognized as a Product Design Expert in Visual Design as well as in Web Technologies.
-
-Jina has been making websites as a hobby for about 28 years. They’ve worked professionally in the industry for 21 years (18 of those years working with design systems).
+Jina has been making websites as a hobby for about 30 years. They’ve worked professionally in the industry for 22 years (19 of those years working with design systems).
 
 Earlier in their career, Jina led the CSS architecture and style guide for the [Apple Online Store][] remodel in 2007, which included launching the first iPhone. As a frontend UX engineer, they led the online store’s CSS architecture and documentation towards web standards globally across all store instances for locales, education and business-to-business, and more. They also supported the marketing and communication teams to build out components for time-sensitive product launches. Then, as a visual interaction designer, Jina worked on overall UI chrome for the store, sign in/account creation flows, shopping cart and check out flows, as well as product configurations for purchasing Macs, iPhones, iPods, and more.
 
@@ -12,7 +8,9 @@ At Salesforce, Jina was the founding designer on the [Salesforce Lightning Desig
 
 Afterwards, Jina led design systems and operations for Amazon’s no-code app builder, [Honeycode][]. They supported the team with visual systems direction, accessibility, frontend development best practices, managing and rolling out design tool access, setting up workshops, and more.
 
-Additionally, at [Asana][] Jina managed the designers for the Asana Design System, and grew the team from 2 design systems designers to 5 designers across design systems, accessibility, visual design, and mobile foundations.
+At [Asana][] Jina managed the designers for the Asana Design System, and grew the team from 2 design systems designers to 5 designers across design systems, accessibility, visual design, and mobile foundations.
+
+And most recently, at Google, Jina managed the design and developer advocates for [Material Design][]. 
 
 Jina has also advised design system teams, products, and startups. At Opvitae, they are an advisory board member focused on UX and design. They advise Haiku, the company that created Diez, a design token framework tool. Jina also was a committee lead for [AIGA San Francisco][], where they helped with social and content promotion.
 
@@ -45,11 +43,12 @@ They have been said to be one of the most cheerful goths.
 [fancy form design]: https://amzn.to/2yAj4w1
 [fedex]: http://fedex.com/
 [github]: https://github.com/
-[google developers experts]: https://developers.google.com/experts/
+[google developers experts]: https://developers.google.com/community/experts
 [honeycode]: https://www.honeycode.aws/
 [inferno]: https://creativeinferno.com/
 [international paper]: http://www.internationalpaper.com/
 [mass.gov]: https://www.mass.gov/
+[material design]: https://m3.material.io/
 [memphis brooks museum of art]: http://www.brooksmuseum.org/
 [net magazine]: https://www.creativebloq.com/net-magazine
 [no-code conf]: https://webflow.com/blog/no-code-conf-2021-new-speakers-full-agenda
