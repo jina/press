@@ -43,7 +43,7 @@ They have been said to be one of the most cheerful goths.
 [fancy form design]: https://amzn.to/2yAj4w1
 [fedex]: http://fedex.com/
 [github]: https://github.com/
-[google developers experts]: https://developers.google.com/community/experts
+[google developers expert]: https://developers.google.com/community/experts
 [honeycode]: https://www.honeycode.aws/
 [inferno]: https://creativeinferno.com/
 [international paper]: http://www.internationalpaper.com/
